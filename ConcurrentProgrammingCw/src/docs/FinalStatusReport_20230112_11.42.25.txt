@@ -1,0 +1,15 @@
+STUDENTS
+Student 	 List of Printed Documents
+Aunka		[Aunka-Document_1, Aunka-Document_2, Aunka-Document_3, Aunka-Document_4, Aunka-Document_5]
+Mithila		[Mithila-Document_1, Mithila-Document_2, Mithila-Document_3, Mithila-Document_4, Mithila-Document_5]
+Aanya		[Aanya-Document_1, Aanya-Document_2, Aanya-Document_3, Aanya-Document_4, Aanya-Document_5]
+Dinuki		[Dinuki-Document_1, Dinuki-Document_2, Dinuki-Document_3, Dinuki-Document_4, Dinuki-Document_5]
+TECHNICIANS
+Technician 		  Total Attempts 	 Successful Attempts
+Paper Technician				3				  3
+Toner Technician				3				  0
+PRINTER - Cannon LX-11
+Attribute 	 Current Level 	 Full Capacity
+Paper Level 	  159			  250
+Toner Level 	  259			  500
+[0;35mA total of 20 documents were printed.[0m
